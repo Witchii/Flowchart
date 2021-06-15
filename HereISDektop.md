@@ -16,7 +16,7 @@ graph
      H(Wt data)-->G
      
    I(Treatment data)-->G(<a href='https://deeptools.readthedocs.io/en/develop/content/tools/bamCompare.html?highlight=bamcompare'>bamCompare)
-   G-->J(Visualize using <a href='http://igv.org'>IGV </a> )
+   G-->J(Visualize using IGV )
    
 
 
